@@ -4,7 +4,6 @@
  * @n: the number used
  * Return: the value of the last digit in the number n
  */
-
 int print_last_digit(int n)
 {
 if (n < 0)
