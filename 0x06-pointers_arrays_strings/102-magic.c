@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - print an int numbers.
+ * Return: Always 0.
+ */
 int main(void)
 {
 int n;
