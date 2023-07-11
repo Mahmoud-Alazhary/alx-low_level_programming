@@ -1,7 +1,7 @@
 #ifndef HEADERS
 #define HEADERS
 
-include <stdio.h>
+#include <stdio.h>
 
 int _putchar(char);
 char *create_array(unsigned int size, char c);
